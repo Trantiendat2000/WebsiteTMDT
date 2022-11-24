@@ -1,0 +1,31 @@
+.login {
+  position: relative;
+}
+
+.formLogin {
+  background-color: white;
+  width: 40rem;
+  height: 30rem;
+  position: absolute;
+  top: 10rem;
+  left: 30%;
+  text-align: center;
+}
+
+.formLogin h2 {
+  margin: 3rem 0rem;
+}
+
+.formLogin input {
+  width: 70%;
+  height: 3rem;
+}
+
+.formLogin button {
+  border: none;
+  width: 70%;
+  height: 3rem;
+  background-color: black;
+  color: white;
+  margin: 1rem 0;
+}

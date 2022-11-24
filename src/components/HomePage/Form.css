@@ -1,0 +1,23 @@
+.service {
+  background-color: rgba(0, 0, 0, 0.1);
+  text-align: center;
+  height: 10rem;
+  align-items: center;
+}
+
+.service p {
+  opacity: 0.5;
+}
+
+.form input {
+  width: 80%;
+  height: 3rem;
+}
+
+.form button {
+  border: none;
+  background-color: black;
+  color: white;
+  width: 20%;
+  height: 3rem;
+}

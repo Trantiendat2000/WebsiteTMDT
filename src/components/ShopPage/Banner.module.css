@@ -1,0 +1,9 @@
+.banner {
+  background-color: rgba(245, 245, 220, 0.527);
+  height: 10rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4rem;
+  font-style: italic;
+}

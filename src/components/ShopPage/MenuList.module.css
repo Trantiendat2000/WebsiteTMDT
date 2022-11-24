@@ -1,0 +1,18 @@
+.menu h4,
+p {
+  padding-left: 1.5rem;
+}
+
+.menu h4 {
+  background-color: rgba(245, 245, 220, 0.527);
+}
+
+.menu p {
+  cursor: pointer;
+  font-style: italic;
+}
+
+.menu p:hover {
+  color: orange;
+  background-color: rgba(0, 0, 0, 0.152);
+}

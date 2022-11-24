@@ -1,0 +1,31 @@
+.register {
+  position: relative;
+}
+
+.formReg {
+  background-color: white;
+  width: 40rem;
+  height: 30rem;
+  position: absolute;
+  top: 10rem;
+  left: 30%;
+  text-align: center;
+}
+
+.formReg h2 {
+  margin: 3rem 0rem;
+}
+
+.formReg input {
+  width: 70%;
+  height: 3rem;
+}
+
+.formReg button {
+  border: none;
+  width: 70%;
+  height: 3rem;
+  background-color: black;
+  color: white;
+  margin: 1rem 0;
+}

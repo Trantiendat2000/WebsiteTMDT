@@ -1,0 +1,9 @@
+.title {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.category img:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}

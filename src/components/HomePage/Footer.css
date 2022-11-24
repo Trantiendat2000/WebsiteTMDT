@@ -1,0 +1,9 @@
+.footer {
+  height: 20rem;
+  padding-top: 5rem;
+}
+
+.footer a {
+  color: white;
+  text-decoration: none;
+}

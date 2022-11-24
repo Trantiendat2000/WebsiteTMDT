@@ -1,0 +1,62 @@
+.container {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  height: 1000px;
+  background-color: rgba(119, 117, 115, 0.5);
+  z-index: 40;
+}
+
+.overley {
+  position: fixed;
+  top: 15%;
+  bottom: 20%;
+  left: 20%;
+  right: 20%;
+  background-color: white;
+  z-index: 33;
+}
+
+.close {
+  font-size: 36px;
+  position: relative;
+  bottom: 1rem;
+  left: 54rem;
+  cursor: pointer;
+}
+
+.item {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: 580px;
+}
+
+.item img {
+  margin-top: -3rem;
+}
+
+.item h3 {
+  text-align: center;
+  margin-top: -1.5rem;
+}
+
+.item h5 {
+  opacity: 0.7;
+  font-style: italic;
+  padding: 0 1rem;
+}
+
+.item p {
+  padding: 1rem;
+  opacity: 0.6;
+  font-style: italic;
+}
+.item button {
+  border: none;
+  background-color: black;
+  color: white;
+  margin-left: 1rem;
+  padding: 0.2rem;
+  width: 8rem;
+}

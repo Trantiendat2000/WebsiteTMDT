@@ -1,0 +1,35 @@
+.container {
+  position: relative;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar div {
+  display: flex;
+}
+
+.navbar > div h3 {
+  padding: 1rem;
+}
+
+.navbar > div h3:hover {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+.title {
+  position: absolute;
+  top: 0;
+  left: 45%;
+}
+
+.icon h3 {
+  display: flex;
+  width: 8rem;
+  color: black;
+  text-align: center;
+}

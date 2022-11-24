@@ -1,0 +1,21 @@
+.banner {
+  position: relative;
+}
+
+.title {
+  position: absolute;
+  top: 40%;
+  left: 5rem;
+}
+
+.title p {
+  opacity: 0.5;
+}
+
+.title button {
+  border: none;
+  padding: 0.5rem;
+  background-color: black;
+  color: white;
+  width: 15rem;
+}
